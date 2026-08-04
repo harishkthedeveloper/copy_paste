@@ -1,0 +1,47 @@
+Suggested 12-Month Plan
+Phase 1 (Now)
+
+When interviewing externally:
+
+Plain Text
+1
+Target:
+2
+Lead Software Engineer
+3
+Technical Lead
+4
+Lead Mobile Engineer
+Show more lines
+
+These are realistic and competitive immediately.
+
+Phase 2 (Next 6-12 Months)
+
+Build 3-5 Staff-level stories:
+
+Engineering standards
+Testing strategy
+Architecture governance
+Cross-team impact
+Reusable frameworks
+Phase 3
+
+Apply for:
+
+Plain Text
+1
+Staff Software Engineer
+2
+Staff Mobile Engineer
+3
+Staff Flutter Engineer
+4
+``
+Show more lines
+
+At that point, your story becomes:
+
+"My official title stayed Senior Engineer due to company structure, but for the last several years I've been leading technical decisions, driving quality initiatives, defining standards, and influencing engineering practices across teams."
+
+That is a very strong Staff Engineer narrative and one that many interviewers will understand immediately.
